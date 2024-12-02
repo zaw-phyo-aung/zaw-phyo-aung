@@ -25,6 +25,7 @@ Here's a snapshot of the tools and technologies I work with:
 - 🌐 Focused on real-time services, payment systems, and scalable architectures
 - 🧰 Enthusiastic about **DevOps** practices and cloud technologies
 - 📚 Currently learning: **AWS Solutions Architect** & **Kubernetes Administrator (CKA)**
+- 📇 Certifications: **Terraform Associate** & **Kubernetes Administrator (CKA)**
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/zaw-phyo-aung-0161b2180/)  
